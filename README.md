@@ -168,24 +168,63 @@ If the premises are true, and the syllogism structure is sound, the conclusion i
 
 > This book was written to convince one person, which is just the author. If it's truly useful to you, you may use it. If it doesn't, you may simply not use it.
 
-## LET'S EXPLORE WHY THIS BOOK DIDN'T WORK (On Its Author)
-
-Thank you, while your comment doesnt give anything new or even interest me (sorry LMFAOOOOO). 
-
-But it does give me insight which is: 
+## LET'S EXPLORE WHY THIS BOOK DIDN'T WORK ON IT'S AUTHOR
+ 
 The reason i cant be fully convinced with my book **"Brain Can Change"** yet, its because it stem from how my neurobiology is structured: 
 
 **Fast normalization of new rewiring**
 
-My brain prioritize physical overwrite of neural pathway, as it is the most complete rewriting technique that the brain could deploy. Making the old state inaccessible, and can't be remembered without viable effort.
+My brain seems to rely heavily on competitive plasticity, where newer patterns rapidly outcompete older ones. It suppresses prior pathways to the point that they become functionally inaccessible. The previous state still exists at a neural level, but it no longer meaningfully participates in behavior or conscious recall.
 
-**Evidence of change exists outside memory.**
+**Evidence of change hardly exists in felt memory.**
 
-Hence because of point A, my brain can't track change and its change can only be observed through external means (e.g. comparing past state with present externally). 5 years ago i could have something running, yet by today i might not remember it used to run.
+Because of this, evidence of change doesn’t reliably appear in my memory. Instead, it has to be inferred externally, through comparison over time, behavior, or records. I may no longer remember how I used to think or act, not because it was deleted, but because those patterns are no longer easily reactivated.
 
 **Conclusion**
 
 It is therefore expected and inevitable that I have resistant in accepting my book **"Brain Can Change".** And its not a problem or need to be changed, because after the rewiring is complete, the theory would no longer be relevant and that I will eventually recognize the change later.
+
+Information box:
+
+**A. Overwritting Definition**
+
+In real neuroscience, even the most dramatic changes rarely delete circuits outright, they instead suppress, reorganize, or repurpose them. What can happen though, is functional inaccessibility: old pathways become so inhibited or outcompeted that they’re effectively unusable in practice. The old pathway is still there, but they are under enough suppression that behaviorally, it might as well be gone.
+
+A “brain that tends to re-wire” does exist in degree. The closest scientifically supported interpretation is:
+
+1. Strong competitive plasticity and inhibition
+2. Functional reassignment in large scale
+3. Reduced accessibility of prior patterns (not true erasure
+
+**B. Brain that Tend to Re-Wire**
+
+Standard neuroplasticity tend to be additive (new pathways form and compete alongside old ones, this is called synaptic plasticity). Usually the old pathway might weakens but remains, recovery is usually possible through continuous triggers, and relapse might be expected. 
+
+A brain that tend to re-wire tend to compete and suppresses prior pathways to the point that they become functionally inaccessible.
+
+This is an aggressive rewiring strategy that the brain can deploy. Example: 
+
+Synaptic:
+
+1. **Former smokers** who no longer feel urges when seeing cigarettes. Cues can lose their behavioral power. However relapse shows the original pathways persist and can reactivate if they are presented continuosly. Synaptic plasticity (Lüscher & Malenka, 2011)
+
+Definition of Referenced Concept (synaptic):
+
+1. Synaptic plasticity is the biological process where the strength of connections (synapses) between neurons changes in response to increased or decreased activity.
+
+Application:
+
+1. **A patient loses hand movement due to damage in the primary motor cortex.** With therapy, adjacent regions reorganize to control the hand. The original circuitry isn’t erased they are damaged or suppressed that they are no longer usable. And instead new circuitry dominates function (synapses). *Cortical remapping (e.g., Merzenich et al., 1980s studies on somatosensory cortex reorganization)*
+2. **Exposure therapy in anxiety disorders.** A person who panics at loud noises undergoes exposure therapy until the response disappears. The fear response becomes extremely hard to trigger. This is new inhibitory learning, not deletion of the old fear memory (synapses). *Extinction learning (Bouton, 2004)*
+3. **When learning to read,** the brain reorganizes visual and language areas so deeply that you can’t “unsee” words. The previous mode of visual processing is no longer accessible in normal conditions. Still the earlier circuitry isn’t deleted, it’s integrated and repurposed through syapses. *Neural recycling hypothesis (Stanislas Dehaene)*
+
+Definition of Referenced Concept in Application:
+
+1. Cortical remapping, or cortical reorganization, is the brain's ability to rewire its neural pathways to adapt to new information, skill learning, or injuries.
+2. Extinction learning is the gradual decrease in a conditioned response (behavior or fear) that occurs when the stimulus is no longer followed by reinforcement.
+3. The neuronal recycling hypothesis, proposed by cognitive neuroscientist Stanislas Dehaene, states that recently invented human cultural skills (such as reading, writing, and arithmetic) are acquired by repurposing or "recycling" existing brain circuits that evolved for other, similar purposes.
+
+
 
 
 
