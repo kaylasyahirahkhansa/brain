@@ -185,7 +185,7 @@ If the premises are true, and the syllogism structure is sound, the conclusion i
 
 ## LET'S EXPLORE WHY, THEORITICALLY, THIS BOOK DIDN'T WORK ON IT'S AUTHOR
  
-The reason the author might be fully convinced by their own book, **"Brain Can Change,"** likely stems from the author's hypothesis about how their neurobiology is structured:
+The reason the author might not be fully convinced by their own book, **"Brain Can Change,"** likely stems from the author's hypothesis about how their neurobiology is structured:
 
 **Fast normalization of new rewiring**
 
