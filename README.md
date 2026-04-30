@@ -167,3 +167,25 @@ If the premises are true, and the syllogism structure is sound, the conclusion i
 ### End note:
 
 > This book was written to convince one person, which is just the author. If it's truly useful to you, you may use it. If it doesn't, you may simply not use it.
+
+## LET'S EXPLORE WHY THIS BOOK DIDN'T WORK (On Its Author)
+
+Thank you, while your comment doesnt give anything new or even interest me (sorry LMFAOOOOO). 
+
+But it does give me insight which is: 
+The reason i cant be fully convinced with my book **"Brain Can Change"** yet, its because it stem from how my neurobiology is structured: 
+
+**Fast normalization of new rewiring**
+
+My brain prioritize physical overwrite of neural pathway, as it is the most complete rewriting technique that the brain could deploy. Making the old state inaccessible, and can't be remembered without viable effort.
+
+**Evidence of change exists outside memory.**
+
+Hence because of point A, my brain can't track change and its change can only be observed through external means (e.g. comparing past state with present externally). 5 years ago i could have something running, yet by today i might not remember it used to run.
+
+**Conclusion**
+
+It is therefore expected and inevitable that I have resistant in accepting my book **"Brain Can Change".** And its not a problem or need to be changed, because after the rewiring is complete, the theory would no longer be relevant and that I will eventually recognize the change later.
+
+
+
