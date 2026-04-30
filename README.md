@@ -1,5 +1,20 @@
 # BRAIN CAN CHANGE
 
+## DISCLAIMER
+
+This is a personal synthesis by me. It reflects my own understanding and is not intended as a formal diagnosis, nor as a claim of objective truth.
+
+I am not interested in:
+
+- Defending it
+- Debating it
+- Proving it
+- Validating it
+
+It is not for approval. It is not for critique. It exists because my own personal view demanded to be written clearly, nothing more. 
+
+**Assume 100% inaccuracy in the provided information, since they weren't peer reviewed. Assume as if you are reading this knowledge as a fiction**
+
 ## LET'S APPLY FIRST PRINCIPLES REASONING
 
 The world is very noisy. Everyone is shouting, "This is how it is!" But you can be quiet, and start with your own eyes. What do you see?
@@ -223,6 +238,7 @@ Definition of Referenced Concept in Application:
 1. Cortical remapping, or cortical reorganization, is the brain's ability to rewire its neural pathways to adapt to new information, skill learning, or injuries.
 2. Extinction learning is the gradual decrease in a conditioned response (behavior or fear) that occurs when the stimulus is no longer followed by reinforcement.
 3. The neuronal recycling hypothesis, proposed by cognitive neuroscientist Stanislas Dehaene, states that recently invented human cultural skills (such as reading, writing, and arithmetic) are acquired by repurposing or "recycling" existing brain circuits that evolved for other, similar purposes.
+
 
 
 
