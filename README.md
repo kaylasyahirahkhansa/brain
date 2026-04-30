@@ -183,9 +183,9 @@ If the premises are true, and the syllogism structure is sound, the conclusion i
 
 > This book was written to convince one person, which is just the author. If it's truly useful to you, you may use it. If it doesn't, you may simply not use it.
 
-## LET'S EXPLORE WHY THEORITICALLY THIS BOOK DIDN'T WORK ON IT'S AUTHOR
+## LET'S EXPLORE WHY, THEORITICALLY, THIS BOOK DIDN'T WORK ON IT'S AUTHOR
  
-The reason author might be fully convinced with my book **"Brain Can Change"** yet stem from author's hypothesis on how their neurobiology is structured: 
+The reason the author might be fully convinced by my book, **"Brain Can Change,"** likely stems from the author's hypothesis about how their neurobiology is structured:
 
 **Fast normalization of new rewiring**
 
