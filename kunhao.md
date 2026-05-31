@@ -81,4 +81,9 @@ So they got out, saw those disciples, and smiled. They smiled knowing that being
 
 (2)
 
+Someone once described Kun Hao like this:
+
+"Kun Hao can be remarkably chaotic, taking risks, acting with intensity, and making unpredictable moves without much concern for perfection. Yet at other times, they become highly methodical, precise, and unwavering in their pursuit of perfection. They are constantly shifting between these two extremes. But these aren't their preferred methods. They have a third state, which is when they enter their finest moments. In this state, every move seems touched by something beyond human skill, as if they are performed by an immortal hand. I once asked them how and why they could reach such a state.Kun Hao said that it was part of the technique's design."
+
+(3)
 
