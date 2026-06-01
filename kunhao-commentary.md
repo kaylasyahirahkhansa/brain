@@ -1,5 +1,7 @@
 **PQE (Physicalist with a branch in Qualia Eliminativism)**
 
+The author is a PQE, this is a compilation of the story's commentary 
+
 (1)
 
 In the story: Kun Hao is 80 years old, looks like they should be a normal Foundational disciple, but they're secretly a Nascent Soul. The gap between them and their peers is incomprehensible. A normal 80-year-old cultivator cannot fathom what Kun Hao understands about the universe. They don't even have the vocabulary.
