@@ -400,3 +400,10 @@ In short:
 *         A perfectly safe system has zero consciousness (4D), therefore...
 *         Tay is unconscious because it is total and immortal (4A/E).
 *     Unify Everything (5): Modules 0-4 are not separate topics; they are sequential proofs that Reality is an unconscious, presentism, unified field of potential that only generates consciousness locally where fragility exists.
+
+
+Premise 1: Consciousness is a survival mechanism required by biological systems that face the threat of death through the adaptation of neural modeling due to imminent, rapid and unpredictable death that requires moment-to-moment navigation instead of chemical/tropism systems that faces slow death pressure (e.g. plants), yet the mere act of persisting in systems inside Tay (e.g. physics, chem, bio) is not equivalent to being conscious.(4A).
+    Premise 2: Tay is the totality of existence and faces no threat of death since a non stabilized pattern (dissolution) were merely reconfiguration (not the lost of something) (4B).
+    Conclusion: Therefore, although systems inside Tay (e.g. physics, chem, bio) seemingly have the drive to persists (Persistency Drive), Tay remains unconscious because it lacks the biological imperative (fear of death) required to generate awareness. (4C).
+
+1. Can A.I. be conscious? Only if it meet the requirement for consciousness to evolve, this mean we needed to find a way to simulate biology itself, which given our constraint improbable to simulate it.
